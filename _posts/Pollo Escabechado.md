@@ -8,6 +8,8 @@ categories: recetas
 
 # Pollo Escabechado
 
+![Pollo Escabechado](/assets/img/pollo-escabechado.jpg)
+
 *(3 a 4 personas / Tiempo de preparación aprox. 50 min)*
 
 ### Ingredientes:
@@ -36,5 +38,4 @@ categories: recetas
 Sirva con papas fritas, puré o arroz.
 
 ¡Disfrute esta deliciosa receta chilena! 🇨🇱
-
 
